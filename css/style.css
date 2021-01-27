@@ -1,0 +1,43 @@
+ 
+/* h3{
+background-color:purple;
+color:white;
+padding:5px;
+    } */
+body{
+    background-color: rgb(240, 221, 159);
+    font-family:'Times New Roman', Times, serif
+  
+}
+.style1{
+    background-color:purple;
+    color:white;
+    padding:5px;
+    text-align=center;
+
+}
+
+/* /id區/ */
+
+#main{
+    background-color: #a98b98;
+
+}
+
+#secondlayer{
+    background-color: #eaac7f;
+}
+#thirdlayer{
+    background-color:#91684a;
+}
+
+#img-style{
+
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 5px;
+        background-color:violet;
+        width: 150px;
+        height:200PX;
+     
+    }
